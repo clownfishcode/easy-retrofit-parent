@@ -6,7 +6,7 @@
     <groupId>io.github.clownfishcode</groupId>
     <artifactId>easy-retrofit-parent</artifactId>
     <!--版本号说明: 第一位非颠覆性引用不会升级主版本号，第二位引入新的modules会升级版本号，第三位为升级依赖库的版本号-->
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>the parent pom of easy-retrofit, Any mainstream Java web framework extension(starter) needs to inherit this file</description>
